@@ -2,8 +2,8 @@
 #In January, the county pledged to update reported COVID-19 case totals by school daily.
 #But two days later, the county stopped updating data.
 #Below, I've designed a script that would automatically scrape data on when the county releases data.
-#When we think of COVID-19 data, we often think of the numbers themselves. But in MCPS, just the times of the updates alone have proved newsworthy -- cases aside.
-#This script could be the foundation for a Twitter bot, or a newsroom tool to inform reporters when the new data is available.
+#When we think of COVID-19 data, we often think of the numbers themselves. But in MCPS, just the times of the updates alone have proved newsworthy.
+#This script could be the foundation for a Twitter bot, or a newsroom tool to inform reporters when the new data is available. And the constant automatic scraping would ensure we don't miss it.
 #On the other hand, a public Twitter bot could hold MCPS accountable.
 
 #Here is the script:
